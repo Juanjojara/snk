@@ -1,0 +1,22 @@
+{
+  "name": "snk",
+  "version": "1.0.0",
+  "description": "social network kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juanjojara/snk.git"
+  },
+  "author": "Juan José Jara Laconich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juanjojara/snk/issues"
+  },
+  "homepage": "https://github.com/Juanjojara/snk#readme",
+  "dependencies": {
+    "node-persist": "^3.0.5"
+  }
+}
